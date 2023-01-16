@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="InvoiceServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-16T09:35:46" hostname="DESKTOP-L1PP3RF" time="0.035">
+<testsuite name="InvoiceServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-16T09:58:59" hostname="DESKTOP-L1PP3RF" time="0.038">
   <properties/>
-  <testcase name="givenLessDistanceAndTime_ShouldReturnMinFare()" classname="InvoiceServiceTest" time="0.035"/>
+  <testcase name="givenMultipleRides_ShouldReturnTotalFare()" classname="InvoiceServiceTest" time="0.038"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
